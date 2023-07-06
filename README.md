@@ -3,8 +3,8 @@
 <img alt="Html" src ="https://img.shields.io/badge/AICONNECT Final rank-Top 11/0.8960-yellow?style=for-the-badge"/>
 
 #### 생성 AI가 만들어낸 가짜 (Fake) 이미지와 진짜 (Real) 이미지를 분류하는 문제 (23.05.24  - 23.07.20) - 김준용, 길다영
-##### 📊 [PUBLIC] 11/115 점수: 0.8966
-##### 📊 [PRIVATE] 11/115 점수: 0.8957
+##### 📊 [PUBLIC] 11/542 점수: 0.8966
+##### 📊 [PRIVATE] 11/542 점수: 0.8957
 
 <br><br>
 
