@@ -1,6 +1,6 @@
 # AI CONNECT: Fake or Real AI 생성 이미지 판별 경진대회
 
-<img alt="Html" src ="https://img.shields.io/badge/AICONNECT Final rank-Top 11(0.8960)/542-yellow?style=for-the-badge"/>
+<img alt="Html" src ="https://img.shields.io/badge/AICONNECT Final rank-Top 2%25-C3EDC0?style=for-the-badge"/>
 
 #### 생성 AI가 만들어낸 가짜 (Fake) 이미지와 진짜 (Real) 이미지를 분류하는 문제 (23.05.24  - 23.07.20) - 김준용, 길다영
 ##### 📊 [PUBLIC] 11/542 점수: 0.8966
