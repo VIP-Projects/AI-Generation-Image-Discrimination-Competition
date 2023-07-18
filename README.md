@@ -52,7 +52,9 @@ self.transforms = transforms.Compose([
 
 
 ### 아쉬운 점
-- CutMix data argumentation 방법을 사용하고자 했으나 실패함.(https://github.com/clovaai/CutMix-PyTorch)
+- CutMix data argumentation 방법을 사용하고자 했으나 실패함.
+  https://github.com/clovaai/CutMix-PyTorch
+
 - 시간 부족으로 외부 데이터를 추가한 Datasets과 다음 data augmentation을 추가한 코드를 epoch 250으로 돌려보지 못함.
 
   ```
