@@ -64,6 +64,7 @@ self.transforms = transforms.Compose([
                                      ),
   ```
 
+- [커뮤니티](https://aiconnect.kr/competition/detail/227/task/295/community/detail/191)를 보니 Hard_Voting이라는 알고리즘이 존재
 - 대회가 끝난 후 [커뮤니티](https://aiconnect.kr/competition/detail/227/task/295/community/detail/185)에서 AI CONNECT 연습문제였던 "소고기 이미지를 통한 등급 분류 문제" 의 baseline을 참고하여 classifier을 수정한다면 더 좋은 성능이 나온다는 것을 확인.
 
   ```
